@@ -1,0 +1,92 @@
+{
+    "items":[
+        {
+            "id":1,
+            "url": "http://koino.com/upload/major/KESD%2520%25EC%259B%2590%25EB%25B3%25B8_20230207_103231.jpg.jpg",
+            "name":"인터락 스위치(KESD)",
+            "content_title":"KESD 인터락 스위치",
+            "content":[
+                "CE / UL / S마크",
+                "IP67 보호구조(케이블 그랜드 사용시)",
+                "250VAC 3A, 125VDC 0.55A",
+                "접점 : 2B2A, 3B1A",
+                "조작키: 손목패용키(KCK-KCW)"
+            ]
+            
+        },
+        {
+            "id":2,
+            "url": "http://koino.com/upload/major/KSK-1.png",
+            "name":"모드키 스위치(KSK)",
+            "content_title":"KSK 모드 스위치",
+            "content":[
+                "CE / UL / S마크",
+                "솔레노이드 부착형으로 키 스위치와 접점부 블럭의 링크 연결 구조로 모든 접점이 강제 개리 구조",
+                "유지보수용 키스위치로 락기능을 추가하여 작업자의 안정성을 확보하여 오동작을 방지가능",
+                "다양한 기능을 보유",
+                "*모드변환용 : 유지보수 작업을 시작하기 위한 모드 변경 스위치",
+                "*다인수 외부용 : 여러 작업자가 유지보수를 위한 내부 진입을 허용하기 위한 외부 제어스위치",
+                "*다인수 내부용 : 유지보수를 최종 확인하기 위한 내부 제어스위치"
+            ]
+        },
+        {
+            "id":3,
+            "url": "http://koino.com/upload/major/KS2D%2520%25EC%259B%2590%25EB%25B3%25B8.png",
+            "name":"안전도어 스위치(KS2D)",
+            "content_title":"KS2D 도어스위치",
+            "content":[
+                "CE / UL / S마크",
+                "Max, surrounding air temperature 40℃",
+                " IP67 보호구조(케이블 그랜드 사용시)",
+                "이중절연 및 강제 개리구조",
+                "접점구성: 3B, 2B, 2BA, AB, B, A",
+                "조작키: 수평형(H), 수직형(V), 조정형(C)"
+            ]
+        },
+        {
+            "id":4,
+            "url": "http://koino.com/upload/major/%25EC%2583%2588%2520%25ED%2594%2584%25EB%25A1%259C%25EC%25A0%259D%25ED%258A%25B8%2520%25287%2529.png",
+            "name":"비상정지스위치(KSE)",
+            "content_title":"KSE 비상스위치",
+            "content":[
+                "조광형과 비조광형으로 구성",
+                "제품 장착 패널 두께는 최대 5mm 까지 가능",
+                "접점 (NO/NC) 은 직접개방 ( 강제 개리 ) 구조로 되어 있음",
+                "보호구조 : IP65( 패널 전면부 ), IP20( 스크류터미널부 )",
+                "누름 걸림 , 돌림 복귀",
+                "강제 개리 구조",
+                "UL/CUL : UL508(CSA C22.2 NO.14-13)"
+            ]
+        },
+        {
+            "id":5,
+            "url": "http://koino.com/upload/major/%25EC%25A0%259C%25EC%2596%25B4%25EC%259A%25A9%25EC%258A%25A4%25EC%259C%2584%25EC%25B9%2598.gif",
+            "name":"제어용 스위치",
+            "content_title":"Ø22 스위치",
+            "content":[
+                "전기용품 안전인증",
+                "CE 인증",
+                "UL “For use on a flat surface of a type 1 enclosure”",
+                "CCC 인증",
+                "제품 시인성 및 편리성을 고려한 디자인",
+                "접점 블록 장착이 편리하고, 견고한 구조",
+                "고사양, 고수명 제품",
+                "연속 장착 가능한 접점블록 구조",
+                "내환경 강화 재질 및 IP66 적합 구조"
+            ]
+        },
+        {
+            "id":6,
+            "url": "http://koino.com/upload/major/%25EC%2583%2588%2520%25ED%2594%2584%25EB%25A1%259C%25EC%25A0%259D%25ED%258A%25B8%2520%25288%2529.png",
+            "name":"인터락 스위치(KESD)",
+            "content_title":"KESD 인터락 스위치",
+            "content":[
+                "CE / UL / S마크",
+                "IP67 보호구조(케이블 그랜드 사용시)",
+                "250VAC 3A, 125VDC 0.55A",
+                "접점 : 2B2A, 3B1A",
+                "조작키: 손목패용키(KCK-KCW)"
+            ]
+        }
+    ]
+}
