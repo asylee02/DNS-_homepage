@@ -5,6 +5,9 @@ module.exports = {
     ],
   theme: {
     extend: {
+      height:{
+        carousel: '36rem',
+      },
     },
   },
   plugins: [],
